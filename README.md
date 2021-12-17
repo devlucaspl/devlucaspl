@@ -1,7 +1,7 @@
 ## Olá!!! Me Chamo Lucas e estou empanhado me tornar um desenvolvedor full-stack
 
 <div align="center">
-  <a href="https://github.com/devlucaspl">
+  <a href="https://beacons.ai/devlucas_pl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucaspl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaspl&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
