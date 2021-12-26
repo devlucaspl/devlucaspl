@@ -7,13 +7,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="64" width="64" src="https://img.icons8.com/nolan/64/html-5.png">
-  <img align="center" alt="Lucas-CSS" height="64" width="64" src="https://img.icons8.com/nolan/64/css-filetype.png">
-  <img align="center" alt="Lucas-Javascript" height="64" width="64" src="https://img.icons8.com/nolan/64/javascript.png">
-  <img align="center" alt="Lucas-Wordpress" height="64" width="64" src="https://img.icons8.com/nolan/64/wordpress.png">
-  <img align="center" alt="Lucas-PHP" height="64" width="64" src="https://img.icons8.com/nolan/64/php.png">
-  <img align="center" alt="Lucas-ReactNative" height="64" width="64" src="https://img.icons8.com/nolan/64/react-native.png">
-  <img align="center" alt="Lucas-Git" height="64" width="64" src="https://img.icons8.com/nolan/64/git.png">
+  <img align="center" alt="Lucas-HTML-CSS" height="64" width="64" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png">
+  <img align="center" alt="Lucas-Javascript" height="64" width="64" src="https://img.icons8.com/ios/100/000000/javascript--v1.png">
+  <img align="center" alt="Lucas-Vue" height="64" width="64" src="https://img.icons8.com/windows/64/000000/vuejs.png">
+  <img align="center" alt="Lucas-React" height="64" width="64" src="https://img.icons8.com/wired/64/000000/react.png">
+  <img align="center" alt="Lucas-PHP" height="64" width="64" src="https://img.icons8.com/wired/64/000000/php-logo.png">
+  <img align="center" alt="Lucas-Laravel" height="64" width="64" src="https://img.icons8.com/ios/100/000000/laravel.png">
+  <img align="center" alt="Lucas-Wordpress" height="64" width="64" src="https://img.icons8.com/windows/64/000000/wordpress.png">
+  <img align="center" alt="Lucas-Joomla" height="64" width="64" src="https://img.icons8.com/ios-filled/100/000000/joomla.png">
+  <img align="center" alt="Lucas-MySQL" height="64" width="64" src="https://img.icons8.com/ios/100/000000/mysql-logo.png">
 </div>
   
  ##
