@@ -1,10 +1,22 @@
-## Olá!!! Me Chamo Lucas e estou empanhado me tornar um desenvolvedor full-stack
+## Olá!!! Me chamo Lucas Lopes, novo por aqui? venha dar uma olhada nos meus projetos (não repare a bagunça) e me conhecer melhor:
 
 <div align="center">
   <a href="https://beacons.ai/devlucas_pl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucaspl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaspl&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+## :books: Áreas de estudo
+
+:man_technologist: Desenvolvedor Front e Back end: é a área que estou planejando seguir, com o front em primeiro plano.
+
+:cloud: Cloud: comecei a pouco tempo, aws e oracle cloud me chamaram atenção.
+
+:signal_strength: Infraestrutura de redes: apesar de não me animar nesse ramo da TI foi por onde eu iniciei minha carreira na área e cada nova descoberta é algo a se guardar.
+
+:closed_lock_with_key: Segurança: uma área que está muito atrelada a infra/rede e essas novas tecnologias que entraram no mercado me chamaram atenção.
+
+:video_game: Games: de vez em quando bate a vontade de entrar nesse ramo mas logo passa.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML-CSS" height="64" width="64" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png">
