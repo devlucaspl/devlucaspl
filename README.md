@@ -1,11 +1,5 @@
 ## Olá!!! Me chamo Lucas Lopes, novo por aqui? venha dar uma olhada nos meus projetos (não repare a bagunça) e me conhecer melhor:
 
-<div align="center">
-  <a href="https://beacons.ai/devlucas_pl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucaspl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaspl&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## :books: Áreas de estudo
 
 :man_technologist: Desenvolvedor Front e Back end: é a área que estou planejando seguir, com o front em primeiro plano.
