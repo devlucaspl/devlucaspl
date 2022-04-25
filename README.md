@@ -1,6 +1,6 @@
 ## Olá!!! Me chamo Lucas Lopes, novo por aqui? venha dar uma olhada nos meus projetos (não repare a bagunça) e me conhecer melhor:
 
-<div align="right"> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/devlucaspl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devlucas_pl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/DevLucasPL"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
